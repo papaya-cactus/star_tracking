@@ -1,2 +1,2 @@
-# star-tracking1
+# star_tracking
 Star Tracking Algorithm for telescope guiding system
